@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Alexandre Rademaker</title>
+ <link href="http://arademaker.github.com/atom.xml" rel="self"/>
+ <link href="http://arademaker.github.com/"/>
+ <updated>2016-07-07T17:20:17+00:00</updated>
+ <id>http://arademaker.github.com/</id>
+ <author>
+   <name>Alexandre Rademaker</name>
+   <email>arademaker@gmail.com</email>
+ </author>
+
+ 
+ 
+</feed>
